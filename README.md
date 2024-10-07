@@ -24,7 +24,16 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+### Contact Management App
+
+This Contact Management App is designed to streamline the organization and management of contacts. The application features robust authentication and authorization mechanisms, ensuring that users can securely access and manage their contact information.
+
+#### Features
+
+- **User Authentication**: Secure login and registration process to verify user identities.
+- **Role-Based Authorization**: Different access levels for users, allowing for tailored permissions and enhanced security.
+- **Contact Management**: Add, edit, and delete contacts with ease.
+- **User-Friendly Interface**: Intuitive design for seamless navigation and usability.
 
 ## Installation
 
