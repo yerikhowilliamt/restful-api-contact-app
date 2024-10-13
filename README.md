@@ -31,7 +31,6 @@ This Contact Management App is designed to streamline the organization and manag
 #### Features
 
 - **User Authentication**: Secure login and registration process to verify user identities.
-- **Role-Based Authorization**: Different access levels for users, allowing for tailored permissions and enhanced security.
 - **Contact Management**: Add, edit, and delete contacts with ease.
 - **User-Friendly Interface**: Intuitive design for seamless navigation and usability.
 
