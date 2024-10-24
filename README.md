@@ -32,7 +32,6 @@ This Contact Management App is designed to streamline the organization and manag
 
 - **User Authentication**: Secure login and registration process to verify user identities.
 - **Contact Management**: Add, edit, and delete contacts with ease.
-- **User-Friendly Interface**: Intuitive design for seamless navigation and usability.
 
 ## Installation
 
